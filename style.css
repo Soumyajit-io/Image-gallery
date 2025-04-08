@@ -19,10 +19,18 @@
 
 
 .container h1{
-    margin: 20npx 0;
+    margin: 20px 0;
     text-align: center;
     margin-bottom: 20px;
     font-size: 3rem;
+    font-family: 'Playfair Display';
+}
+.container h2{
+    margin: 20px 0;
+    font-size: 1.60rem;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Poppins';
 }
 .gallery{
     display: flex;
